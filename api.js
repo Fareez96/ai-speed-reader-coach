@@ -1,3 +1,5 @@
+// Feature API branch: cleanup and refactor
+
 // DOM Elements
 const testApiBtn = document.querySelector("#testApi");
 const apiInput = document.querySelector("#apiInput");
